@@ -46,7 +46,7 @@
       <text x="24" y="262"><tspan class="p">jk@github</tspan><tspan class="t">:</tspan><tspan class="d">~</tspan><tspan class="t">$ </tspan></text>
     </g>
     <text x="24" y="262" clip-path="url(#c3)"><tspan fill-opacity="0">jk@github:~$ </tspan><tspan class="t">stats --last-year</tspan></text>
-    <text x="24" y="288" class="o"><tspan class="y">3,266</tspan><tspan class="t"> contributions </tspan><tspan class="m">&#183;</tspan><tspan class="t"> current streak </tspan><tspan class="y">21 days</tspan>
+    <text x="24" y="288" class="o"><tspan class="y">3,281</tspan><tspan class="t"> contributions </tspan><tspan class="m">&#183;</tspan><tspan class="t"> current streak </tspan><tspan class="y">22 days</tspan>
       <set attributeName="opacity" to="1" begin="a3.end+0.3s" fill="freeze"/></text>
 
     <g opacity="0"><set attributeName="opacity" to="1" begin="a3.end+0.8s" fill="freeze"/>
